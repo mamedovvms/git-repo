@@ -1,2 +1,2 @@
-print 'Goodbay'
-print '2'
+print 'Goodbay';
+print '2';
